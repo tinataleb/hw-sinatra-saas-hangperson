@@ -2,6 +2,7 @@ class HangpersonGame
 
   # cd ..\..\..\..\Desktop\Spring19\CS169\Homework\hw-sinatra-saas-hangperson
   # bundle exec autotest
+  # bundle exec rackup
 
   attr_reader :word, :guesses, :wrong_guesses
   # add the necessary class methods, attributes, etc. here
